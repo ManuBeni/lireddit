@@ -1,4 +1,4 @@
-## This is my reddit clone
+# This is my reddit clone
 ## Step by step guide as how I've built it
 ### Back End
 -------------
